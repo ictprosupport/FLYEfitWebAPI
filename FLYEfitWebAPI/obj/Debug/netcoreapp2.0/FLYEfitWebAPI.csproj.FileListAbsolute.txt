@@ -1,0 +1,11 @@
+C:\Users\keith\Google Drive\Work\Flyefit\Websites\api\Azure\FLYEfitWebAPI\FLYEfitWebAPI\obj\Debug\netcoreapp2.0\FLYEfitWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\keith\Google Drive\Work\Flyefit\Websites\api\Azure\FLYEfitWebAPI\FLYEfitWebAPI\obj\Debug\netcoreapp2.0\FLYEfitWebAPI.AssemblyInfoInputs.cache
+C:\Users\keith\Google Drive\Work\Flyefit\Websites\api\Azure\FLYEfitWebAPI\FLYEfitWebAPI\obj\Debug\netcoreapp2.0\FLYEfitWebAPI.AssemblyInfo.cs
+C:\Users\keith\Google Drive\Work\Flyefit\Websites\api\Azure\FLYEfitWebAPI\FLYEfitWebAPI\bin\Debug\netcoreapp2.0\FLYEfitWebAPI.deps.json
+C:\Users\keith\Google Drive\Work\Flyefit\Websites\api\Azure\FLYEfitWebAPI\FLYEfitWebAPI\bin\Debug\netcoreapp2.0\FLYEfitWebAPI.runtimeconfig.json
+C:\Users\keith\Google Drive\Work\Flyefit\Websites\api\Azure\FLYEfitWebAPI\FLYEfitWebAPI\bin\Debug\netcoreapp2.0\FLYEfitWebAPI.runtimeconfig.dev.json
+C:\Users\keith\Google Drive\Work\Flyefit\Websites\api\Azure\FLYEfitWebAPI\FLYEfitWebAPI\bin\Debug\netcoreapp2.0\FLYEfitWebAPI.dll
+C:\Users\keith\Google Drive\Work\Flyefit\Websites\api\Azure\FLYEfitWebAPI\FLYEfitWebAPI\bin\Debug\netcoreapp2.0\FLYEfitWebAPI.pdb
+C:\Users\keith\Google Drive\Work\Flyefit\Websites\api\Azure\FLYEfitWebAPI\FLYEfitWebAPI\obj\Debug\netcoreapp2.0\FLYEfitWebAPI.dll
+C:\Users\keith\Google Drive\Work\Flyefit\Websites\api\Azure\FLYEfitWebAPI\FLYEfitWebAPI\obj\Debug\netcoreapp2.0\FLYEfitWebAPI.pdb
+C:\Users\keith\Google Drive\Work\Flyefit\Websites\api\Azure\FLYEfitWebAPI\FLYEfitWebAPI\obj\Debug\netcoreapp2.0\FLYEfitWebAPI.csprojResolveAssemblyReference.cache
